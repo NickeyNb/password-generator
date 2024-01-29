@@ -40,6 +40,7 @@ const App = () => {
     passwordRef.current?.setSelectionRange(0, length);
 
     window.navigator.clipboard.writeText(password); // it will copy the password
+    alert("Text Copied !");
   };
 
   useEffect(() => {
