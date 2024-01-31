@@ -1,6 +1,6 @@
 # Password-Generator
 
-Basic password generator using reactjs.
+Basic password generator using reactjs from (chai aur code)
 
 ## Screenshots
 
